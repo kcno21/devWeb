@@ -24,6 +24,11 @@
   </repositories>
   <dependencies>
     <dependency>
+	  <groupId>org.glassfish.core</groupId>
+	  <artifactId>glassfish</artifactId>
+	  <version>3.1.1</version>
+	</dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
